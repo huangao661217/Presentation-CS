@@ -1,2 +1,1 @@
-# Presentation-CS
-Introduction &amp; syllabus 
+Source for the Netflix OSS Hub : http://netflix.github.io/
